@@ -1,0 +1,56 @@
+
+
+.separator.small {
+   
+    height: 4px;
+}
+
+.qode_clients .qode_client_image_holder{
+padding: 33px 0;
+}
+
+.qode_clients .qode_client_holder_inner:after, .qode_clients .qode_client_holder_inner:before{
+border-color: #424148;
+}
+
+.qode_left_side_fixed{
+    left: initial;
+    right: 3%;
+    bottom: initial;
+    top: 44%;
+    transform: none;
+}
+
+.qode_left_side_fixed .qode_icon_shortcode{
+    display: block;
+}
+nav.main_menu>ul>li.active>a>span:not(.plus), nav.main_menu>ul>li:hover>a>span:not(.plus){
+background-color: #53f6c7
+}
+
+nav.main_menu>ul>li>a>span:not(.plus){
+padding: 8px 20px;
+}
+.column2.footer_bottom_column .footer_bottom .textwidget{
+    display: inline-block
+}
+.q_icon_list p{
+    margin-bottom: 0;
+}
+
+.q_icon_list{
+    margin-bottom: 5px;
+}
+
+.testimonials_c_holder .flex-control-nav {
+     margin-top: 0px
+}
+.testimonials_c_holder .testimonial_content_inner {
+    padding: 3% 16%;
+}
+.testimonials_c_holder .flex-control-nav li {
+    margin: 0 8px;
+}
+header:not(.with_hover_bg_color) nav.main_menu>ul>li:hover>a{
+    opacity: 1;
+}
